@@ -35,7 +35,7 @@
 
 .menu{
     width: 400px;
-    float: left;
+    float: right;
     height: 70px;
 }
 
@@ -175,6 +175,7 @@ ul li a:hover{
     width: 250px;
     height: 380px;
     background: linear-gradient(to top,rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+    float: right;
     position: absolute;
     top: -20px;
     left: 870px;
@@ -273,7 +274,7 @@ ul li a:hover{
 }
 
 .icon ion-icon:hover{
-    color: aq;
+    color: aqua;
 }
 
 
